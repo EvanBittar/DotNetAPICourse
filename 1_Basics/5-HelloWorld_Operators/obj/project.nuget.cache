@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jy8rOuo2ypg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LOQ\\Desktop\\dotnet-course-code\\DotNetAPICourse\\1_Basics\\5-HelloWorld_Operators\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LOQ\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.14\\microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\LOQ\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.14\\microsoft.windowsdesktop.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\LOQ\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.14\\microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\LOQ\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.14\\microsoft.netcore.app.host.win-x64.9.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
